@@ -1,1 +1,2 @@
-Today we are writing the git commands-> move from the local computer to remote github server
+<!-- Today we are writing the git commands-> move from the local computer to remote github server -->
+Modify the README.md and directly commit the change without running the git add by using the single command.
